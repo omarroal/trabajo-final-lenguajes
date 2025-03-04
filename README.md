@@ -8,8 +8,7 @@ A través de los ejercicios planteados en clase y los conocimientos impartidos: 
 siguientes tareas asociadas a cada bloque de conocimiento y prepara una presentación
 con los resultados, aportando tus conclusiones sobre el estado de los datos, su calidad y la
 interpretación y justificación de los análisis. Esta presentación se defenderá de manera
-pública en la sesión del lunes, 9 de enero de 2023. Cada estudiante tendrá 7 minutos para
-exponer ambos ejercicios.
+pública en la sesión.
 
 1) Proponer un análisis de datos utilizando el lenguaje de programación Python.
 1.1 Selecciona un conjunto de datos con variables discretas y contínuas que te
