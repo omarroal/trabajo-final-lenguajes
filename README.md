@@ -21,9 +21,7 @@ estás haciendo y con qué intención. Incluye representaciones gráficas para a
 la comprensión del trabajo.
 
 2) Recopilar un texto en español de una web a tu elección y realizar un conteo de
-las palabras relacionadas.
-
-Este texto puede estar tanto en párrafos como en cabeceras, listas o tablas. En la
+las palabras relacionadas. Este texto puede estar tanto en párrafos como en cabeceras, listas o tablas. En la
 presentación, explica tu solución y muestra los resultados que obtienes. Presenta la
 búsqueda de la palabra en el buscador del navegador y los resultados que devuelve
 tu código para comprobar que has validado el resultado.
